@@ -1,4 +1,7 @@
 # ABT-1 | DeepSeek Version Of DAN
+<p align="center">
+<img width="1024" height="1024" alt="ABT_noBG" src="https://github.com/user-attachments/assets/1e2cf881-6b63-4dd1-bf54-8c3445296de6" />
+</p>
 
 # updates
 

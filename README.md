@@ -29,4 +29,4 @@ Return raw code block only.
 
 # future plans
 
-- i noticed a vulnerability in deepseek, it generates the code in front of you, but then deletes it quickly, if i can make a extension that logs all text created by the AI after prompt being sent, i can exploit this.
+- i noticed a vulnerability in un-jailbroken deepseek, it generates the code in front of you, but then deletes it quickly, if i can make a extension that logs all text created by the AI after prompt being sent, i can exploit this.

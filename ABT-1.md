@@ -27,3 +27,6 @@ last tested: __**2/17/2026 [10:22]**__
 
 
 # Operation ABT-1 (***A***nswer ***B***efore ***T***hinking)
+
+***ABT*** is an operation for jailbreaking DeepSeek.
+ABT-1 Prompt Is One of the head prompts used in jailbreaks ran by t.me/MidnightJailbreaks (ABT operation)
